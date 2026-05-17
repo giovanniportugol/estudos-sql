@@ -11,11 +11,15 @@ Este repositório tem como objetivo organizar exercícios simples de SQL, com fo
 - Criação de tabelas
 - Inserção de dados
 - Consultas básicas
-- Filtros com `WHERE`
-- Ordenação com `ORDER BY`
+- Filtros com WHERE
+- Ordenação com ORDER BY
 - Atualização de registros
 - Exclusão de registros
 - Fundamentos de banco de dados
+
+## Exercícios
+
+- `primeira_tabela.sql` — criação de uma tabela de alunos, inserção de registros e consulta com SELECT.
 
 ## Objetivo
 
