@@ -20,7 +20,7 @@ Este repositório tem como objetivo organizar exercícios simples de SQL, com fo
 ## Exercícios
 
 - `primeira_tabela.sql` — criação de uma tabela de alunos, inserção de registros e consulta com SELECT.
-- - `cadastro_simples.py` — cadastro simples de usuário usando entrada de dados, dicionário e lista.
+- consultas_basicas.sql` — consultas com SELECT, seleção de colunas, filtro com WHERE e ordenação com ORDER BY.
 
 ## Objetivo
 
